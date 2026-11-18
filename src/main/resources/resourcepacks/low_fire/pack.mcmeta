@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Nigl Client: Low Fire",
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": [
+      100,
+      0
+    ]
+  }
+}
